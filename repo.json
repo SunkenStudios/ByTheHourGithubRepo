@@ -16,7 +16,8 @@
             "gameDescription" : "Baldi baldi baldi ok",
             "gameDownload" : "https://download.gamejolt.net/1f9ee69fe9f07a941c01d0924dce80909240babbd110ad124f254f7610fc5ffc,1729027162,7/data/games/14/36/930036/files/6701b0548d1b2/baldelearning.rar",
             "gameExecutable" : "BaldeLearning\\BaldeLearning.exe",
-            "gameCommandline" : ""
+            "gameCommandline" : "",
+            "gameVersion" : 1
         }
     }
 }
