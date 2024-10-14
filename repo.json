@@ -8,6 +8,7 @@
         "cover5" : 1,
         "cover6" : 1
     },
+    "nightCount" : 1,
     "night1" : {
         "game0" : {
             "gameName" : "BaldeLearning Basics",
