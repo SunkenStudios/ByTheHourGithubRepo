@@ -1,3 +1,11 @@
 {
-    "test" : "Working!"
+    "imageVersions" : {
+        "cover0" : 0,
+        "cover1" : 0,
+        "cover2" : 0,
+        "cover3" : 0,
+        "cover4" : 0,
+        "cover5" : 0,
+        "cover6" : 0
+    }
 }
