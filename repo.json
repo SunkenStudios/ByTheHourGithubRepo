@@ -22,11 +22,11 @@
         "game1" : {
             "gameName" : "Randy's Ralliwarehouse",
             "gameSubtitle" : "by Kagemay",
-            "gameDescription" : "Randy randy randy ok\n\n\n\n(56.7 MB)",
-            "gameDownload" : "https://download.gamejolt.net/a2d11d7779750c2aa8f0b72facd61f8a3fdc8b887949c3c9a154fe59e9143964,1729043422,7/data/games/14/36/930036/files/6701b093b6246/randys.zip",
+            "gameDescription" : "Randy randy randy ok\n\n\n\n(49.1 MB)",
+            "gameDownload" : "https://download.gamejolt.net/3afd71c2b5831594f69eccd6d70459e21697689f4f665fbef32210de35236acb,1729048451,7/data/games/14/114/931864/files/670dddd3083e3/randys.zip",
             "gameExecutable" : "Randys.exe",
             "gameCommandline" : "",
-            "gameVersion" : 1
+            "gameVersion" : 2
         },
         "game2" : {
             "gameName" : "Out of Order",
