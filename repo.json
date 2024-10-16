@@ -33,11 +33,23 @@
         "game2" : {
             "gameName" : "Out of Order",
             "gameSubtitle" : "by Raytheree",
-            "gameDescription" : "Order order order ok\n\n\n\n(122 MB)",
-            "gameDownload" : "https://download.gamejolt.net/47b17129cc0f230e00f37e6d72d40818719db1402237d29eee1c718c98bb0834,1729043521,7/data/games/14/36/930036/files/6701b0e91e78d/out-of-order.zip",
+            "gameDescription" : "Order order order ok\n\n\n\n(108 MB)",
+            "gameDownload" : "https://download.gamejolt.net/9644f87cab4f1d01105fb673bc8dd3d6c1a1f8269cba13d5d1cedae05dd397a3,1729127169,7/data/games/14/114/931864/files/670f11638e9fd/out-of-order.rar",
             "gameExecutable" : "Out of Order\\Out of Order.exe",
             "gameCommandline" : "",
             "gameIniKey" : "outoforder",
+            "gameVersion" : 2
+        }
+    },
+    "night2" : {
+        "game2" : {
+            "gameName" : "REVENGE AT TROYS - FORSAKEN PAST",
+            "gameSubtitle" : "by Greg_Games & Sunken Studios",
+            "gameDescription" : "Troy\n\n\n\n(777 MB)",
+            "gameDownload" : "https://download.gamejolt.net/1f9ee69fe9f07a941c01d0924dce80909240babbd110ad124f254f7610fc5ffc,1729027162,7/data/games/14/36/930036/files/6701b0548d1b2/baldelearning.rar",
+            "gameExecutable" : "REVENGE AT TROYS - FORSAKEN PAST.exe",
+            "gameCommandline" : "",
+            "gameIniKey" : "troy",
             "gameVersion" : 1
         }
     }
