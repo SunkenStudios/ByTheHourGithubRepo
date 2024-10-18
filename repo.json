@@ -42,6 +42,16 @@
         }
     },
     "night2" : {
+        "game0" : {
+            "gameName" : "A Night at Toad's",
+            "gameSubtitle" : "by BubyGamer11 & Jacorn",
+            "gameDescription" : "A place of fun... You have the nightshift... Can you survive a night... at Toad's?\n\n\n\n(74 MB)",
+            "gameDownload" : "https://download.gamejolt.net/4f8227c19bfcb4b8f7fe0ba112c484a1069de713a5d28f1d84e1309524039c8c,1729373154,7/data/games/14/114/931864/files/6712d228bee1b/toad.zip",
+            "gameExecutable" : "A Night At Toads.exe",
+            "gameCommandline" : "",
+            "gameIniKey" : "toad",
+            "gameVersion" : 1
+        },
         "game2" : {
             "gameName" : "REVENGE AT TROYS - FORSAKEN PAST",
             "gameSubtitle" : "by Greg_Games & Sunken Studios",
@@ -52,6 +62,7 @@
             "gameIniKey" : "troy",
             "gameVersion" : 1
         }
+        
     },
     "night6" : {
         "game0" : {
