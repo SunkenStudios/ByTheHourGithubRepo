@@ -52,5 +52,17 @@
             "gameIniKey" : "troy",
             "gameVersion" : 1
         }
+    },
+    "night6" : {
+        "game1" : {
+            "gameName" : "SUPER SOSIE JUMP",
+            "gameSubtitle" : "by winsomeless",
+            "gameDescription" : "Experience sosie jump in an all new way.\n\n\n\n(777 MB)",
+            "gameDownload" : "https://download.gamejolt.net/f3be3533a64035ca6a5fba208d07d91766fd163c637c8657280656adacb8bb28,1729305377,7/data/games/14/114/931864/files/6711c974173d7/super-sosie-jump.exe",
+            "gameExecutable" : "super sosie jump.exe",
+            "gameCommandline" : "",
+            "gameIniKey" : "sosie",
+            "gameVersion" : 1
+        }
     }
 }
