@@ -14,11 +14,11 @@
             "gameName" : "BaldeLearning Basics",
             "gameSubtitle" : "by NoodlePrime",
             "gameDescription" : "Baldi baldi baldi ok\n\nOST by Sunken Studios\n\n(64.3 MB)",
-            "gameDownload" : "https://download.gamejolt.net/7ffe545bd52d1374c925d07983ebd574853f28d13e5271999154ab5570ddf223,1729311516,7/data/games/14/114/931864/files/6711e180477bb/baldelearning.zip",
+            "gameDownload" : "https://download.gamejolt.net/e3c032d6a271e67c880f79cdf98577bcba3e4c759f2703d91ad6e28095cb3f7b,1729312205,7/data/games/14/114/931864/files/6711e43659713/baldelearning.rar",
             "gameExecutable" : "BaldeLearning\\BaldeLearning.exe",
             "gameCommandline" : "",
             "gameIniKey" : "balde",
-            "gameVersion" : 3
+            "gameVersion" : 4
         },
         "game1" : {
             "gameName" : "Randy's Ralliwarehouse",
