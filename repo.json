@@ -14,15 +14,15 @@
             "gameName" : "BaldeLearning Basics",
             "gameSubtitle" : "by NoodlePrime",
             "gameDescription" : "Baldi baldi baldi ok\n\nOST by Sunken Studios\n\n(64.3 MB)",
-            "gameDownload" : "",
+            "gameDownload" : "https://download.gamejolt.net/9afb38747d54fcb751544f43d8c9cfdbec56ae7c39830dea26461b0e77deab15,1729310836,7/data/games/14/114/931864/files/6711dedb4a82f/baldelearning.rar",
             "gameExecutable" : "BaldeLearning\\BaldeLearning.exe",
             "gameCommandline" : "",
             "gameIniKey" : "balde",
-            "gameVersion" : 1
+            "gameVersion" : 2
         },
         "game1" : {
             "gameName" : "Randy's Ralliwarehouse",
-            "gameSubtitle" : "by Kagemay",
+            "gameSubtitle" : "by Kagemay, Sackhead, Gumball & Gregsmann",
             "gameDescription" : "Welcome to Randy's! It looks like you've locked yourself inside of the wonderful Ralliwarehouse by accident, and our old animatronics don't take kindly to unauthorized intruders! You'll need to outlast them long enough for us to get you out of there. Good Luck!\n\n\n\n(49.1 MB)",
             "gameDownload" : "https://download.gamejolt.net/cdedad7f68dba51cbebedfad53cc8b846d3d7df3aec8dc6e94dfcad7ba3c9828,1729309149,7/data/games/14/114/931864/files/670ef2737382f/randys.zip",
             "gameExecutable" : "Randys.exe",
