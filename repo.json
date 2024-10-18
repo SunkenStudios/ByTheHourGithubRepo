@@ -45,27 +45,28 @@
         "game0" : {
             "gameName" : "A Night at Toad's",
             "gameSubtitle" : "by BubyGamer11 & Jacorn",
-            "gameDescription" : "A place of fun... You have the nightshift... Can you survive a night... at Toad's?\n\n\n\n(74 MB)",
-            "gameDownload" : "https://download.gamejolt.net/4f8227c19bfcb4b8f7fe0ba112c484a1069de713a5d28f1d84e1309524039c8c,1729373154,7/data/games/14/114/931864/files/6712d228bee1b/toad.zip",
+            "gameDescription" : "A place of fun... You have the nightshift... Can you survive a night... at Toad's?\n\n\n\n(70 MB)",
+            "gameDownload" : "https://download.gamejolt.net/a74c81c9c8e2795e05f76a5a545da80afbf9f7cd6d4a94dc961e920e8f58563e,1729374592,7/data/games/14/114/931864/files/6712d7ddeab0c/toad.rar",
             "gameExecutable" : "A Night At Toads.exe",
             "gameCommandline" : "",
             "gameIniKey" : "toad",
-            "gameVersion" : 1
+            "gameVersion" : 2
         },
         "game1" : {
-            "gameName" : "A Night at PLACEHOLDER!",
-            "gameSubtitle" : "by BubyGamer11 & Jacorn",
-            "gameDescription" : "A place of fun... You have the nightshift... Can you survive a night... at Toad's?\n\n\n\n(74 MB)",
-            "gameDownload" : "https://download.gamejolt.net/4f8227c19bfcb4b8f7fe0ba112c484a1069de713a5d28f1d84e1309524039c8c,1729373154,7/data/games/14/114/931864/files/6712d228bee1b/toad.zip",
-            "gameExecutable" : "A Night At Toads.exe",
+            "gameName" : "friends are forever",
+            "gameSubtitle" : "by R.A Bon",
+            "gameDescription" : "You are here to take a night shift for your friend, he left the task to you this time because he had 'better stuff to do,' and you don't want to let him down, so you take it. The job is the make sure everything stays as it should at the new horror attraction, almost ready to open. Based on the old creepy Fredbear's rumors, the task won't be so easy. The animatronics are always working and they don't seem to be very safe... but everything should go as planned if you follow the instructions that your friend left for you.\n\n\n\n(80 MB)",
+            "gameDownload" : "https://download.gamejolt.net/0ac8de7964c4162ea64cfb3a6a0459f098e249cb860976e30cdc1263712ed634,1729376066,7/data/games/14/114/931864/files/6712dd9fb6b51/faf.rar",
+            "gameExecutable" : "friends are forever.exe",
             "gameCommandline" : "",
-            "gameIniKey" : "toad",
-            "gameVersion" : 1
+            "gameIniKey" : "friends",
+            "gameVersion" : 2
+        },
         "game2" : {
             "gameName" : "REVENGE AT TROYS - FORSAKEN PAST",
             "gameSubtitle" : "by Greg_Games & Sunken Studios",
-            "gameDescription" : "Troy\n\n\n\n(777 MB)",
-            "gameDownload" : "",
+            "gameDescription" : "Venture into Troy's facility in this third installment of the Revenge at Troy's series as you uncover the truth behind his forsaken past...\n\n\n\n(666 MB)",
+            "gameDownload" : "https://download.gamejolt.net/f92b0396b225a6b8c36f17c98094e10bceb204e68c1e6a8a41b2d68f5079b181,1729375470,7/data/games/14/114/931864/files/6712d9aa749ca/revenge-at-troys-forsaken-past.rar",
             "gameExecutable" : "REVENGE AT TROYS - FORSAKEN PAST.exe",
             "gameCommandline" : "",
             "gameIniKey" : "troy",
