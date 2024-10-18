@@ -12,8 +12,8 @@
     "night1" : {
         "game0" : {
             "gameName" : "BaldeLearning Basics",
-            "gameSubtitle" : "by NoodlePrime",
-            "gameDescription" : "Baldi baldi baldi ok\n\nOST by Sunken Studios\n\n(64.3 MB)",
+            "gameSubtitle" : "by NoodlePrime & Sunken Studios",
+            "gameDescription" : "Today is the day! Baldi has just recieved his first shipment of You Can Do It Pads! It's time for a virtual learning day. Do you have what it takes?\n\n\n\n(64.3 MB)",
             "gameDownload" : "https://download.gamejolt.net/d765fa51c80210accc3d656c83a7099beab4a18353adb5c84ee03aabc1fb5a4b,1729312399,7/data/games/14/114/931864/files/6711e4edb118b/baldelearning.rar",
             "gameExecutable" : "BaldeLearning\\BaldeLearning.exe",
             "gameCommandline" : "",
@@ -32,8 +32,8 @@
         },
         "game2" : {
             "gameName" : "Out of Order",
-            "gameSubtitle" : "by Raytheree",
-            "gameDescription" : "Order order order ok\n\n\n\n(108 MB)",
+            "gameSubtitle" : "by Raytheree & co.",
+            "gameDescription" : "make sure to include full game credits in this bio when written\n\n\n\n(108 MB)",
             "gameDownload" : "https://download.gamejolt.net/fad76a167d28431247c8d9d63c719d2c7578d035adcbd480c347d16eb1652ced,1729309177,7/data/games/14/114/931864/files/670f11638e9fd/out-of-order.rar",
             "gameExecutable" : "Out of Order\\Out of Order.exe",
             "gameCommandline" : "",
