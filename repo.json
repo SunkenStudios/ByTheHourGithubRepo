@@ -47,7 +47,7 @@
             "gameSubtitle" : "by BubyGamer11 & Jacorn",
             "gameDescription" : "A place of fun... You have the nightshift... Can you survive a night... at Toad's?\n\n\n\n(70 MB)",
             "gameDownload" : "https://download.gamejolt.net/a74c81c9c8e2795e05f76a5a545da80afbf9f7cd6d4a94dc961e920e8f58563e,1729374592,7/data/games/14/114/931864/files/6712d7ddeab0c/toad.rar",
-            "gameExecutable" : "A Night At Toads.exe",
+            "gameExecutable" : "Toad\\A Night At Toads.exe",
             "gameCommandline" : "",
             "gameIniKey" : "toad",
             "gameVersion" : 2
