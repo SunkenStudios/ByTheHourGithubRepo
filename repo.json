@@ -18,7 +18,7 @@
             "gameExecutable" : "BaldeLearning\\BaldeLearning.exe",
             "gameCommandline" : "",
             "gameIniKey" : "balde",
-            "gameVersion" : 2
+            "gameVersion" : 3
         },
         "game1" : {
             "gameName" : "Randy's Ralliwarehouse",
