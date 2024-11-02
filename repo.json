@@ -103,7 +103,7 @@
             "gameExecutable" : "FREDFEARS.exe",
             "gameCommandline" : "",
             "gameIniKey" : "fear",
-            "gameVersion" : 4
+            "gameVersion" : 5
         }
         
     },
