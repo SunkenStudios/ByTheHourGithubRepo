@@ -3,18 +3,18 @@
         "cover0" : 1,
         "cover1" : 3,
         "cover2" : 3,
-        "cover3" : 2,
+        "cover3" : 3,
         "cover4" : 2,
         "cover5" : 2,
         "cover6" : 2
     },
-    "nightCount" : 3,
+    "nightCount" : 4,
     "night1" : {
         "game0" : {
             "gameName" : "BaldeLearning Basics",
             "gameSubtitle" : "by NoodlePrime & Sunken Studios",
             "gameDescription" : "Today is the day! Baldi has just recieved his first shipment of You Can Do It Pads! It's time for a virtual learning day. Do you have what it takes?\n\n\n\n(64.3 MB)",
-            "gameDownload" : "https://download.gamejolt.net/5a0cdf7bd8c1b4ca89de24f1acc1305de144ccbe7261a8828d286a8df400f8ae,1731799985,7/data/games/14/114/931864/files/6711e4edb118b/baldelearning.rar",
+            "gameDownload" : "https://download.gamejolt.net/4891cceabf2c8642349521e5fc4f684fb7a2d7301c1a3143a5702094628d80e7,1731889763,7/data/games/14/114/931864/files/6711e4edb118b/baldelearning.rar",
             "gameExecutable" : "BaldeLearning\\BaldeLearning.exe",
             "gameCommandline" : "",
             "gameIniKey" : "balde",
@@ -24,7 +24,7 @@
             "gameName" : "Randy's Ralliwarehouse",
             "gameSubtitle" : "by ADI 3.0 TEAM",
             "gameDescription" : "Welcome to Randy's! It looks like you've locked yourself inside of the wonderful Ralliwarehouse by accident, and our old animatronics don't take kindly to unauthorized intruders! You'll need to outlast them long enough for us to get you out of there. Good Luck!\n\n\n\n(49.1 MB)",
-            "gameDownload" : "https://download.gamejolt.net/2b3298be2262aa3687f7db695ba719d5e29b23d8fc4a251101c29990e7a49c60,1731799950,7/data/games/14/114/931864/files/6712d0fa933d0/randys.zip",
+            "gameDownload" : "https://download.gamejolt.net/9a933ccd5424c1e6037ee6991045b4ac462955d93365fe3f526db9650ad88758,1731889784,7/data/games/14/114/931864/files/6712d0fa933d0/randys.zip",
             "gameExecutable" : "Randys.exe",
             "gameCommandline" : "",
             "gameIniKey" : "randys",
@@ -34,7 +34,7 @@
             "gameName" : "Out of Order",
             "gameSubtitle" : "by Raytheree, Sackhead & co.",
             "gameDescription" : "Congratulations employee! You have been hired to work with us on one of the many Fazbear Entertainment storage facilities! Now before you start working with us please take the time to watch the instructions as followed on the training tape provided to you in order to ensure your safety throughout your journey with us.\n\n\n\n(108 MB)",
-            "gameDownload" : "https://download.gamejolt.net/2ba158ceebf9655915a13dace0318056dd44f5d794790e5031220271a2c3e9eb,1731799962,7/data/games/14/114/931864/files/670f11638e9fd/out-of-order.rar",
+            "gameDownload" : "https://download.gamejolt.net/f4c9e105bf694d4947e67e5c7291ac02bf4448352b323ae73c01ed4532bd853c,1731889804,7/data/games/14/114/931864/files/670f11638e9fd/out-of-order.rar",
             "gameExecutable" : "Out of Order\\Out of Order.exe",
             "gameCommandline" : "",
             "gameIniKey" : "outoforder",
@@ -46,7 +46,7 @@
             "gameName" : "A Night at Toad's",
             "gameSubtitle" : "by BubyGamer11 & Jacorn",
             "gameDescription" : "A place of fun... You have the nightshift... Can you survive a night... at Toad's?\nAdditional concepts provided by THK205\n\n\n(70 MB)",
-            "gameDownload" : "https://download.gamejolt.net/541175236c82ff0f3fdc6b46a7ff9354fc8f9d2a8e27940f6eea3fabcae20abc,1731799998,7/data/games/14/114/931864/files/6712efe0ddbb9/toad.rar",
+            "gameDownload" : "https://download.gamejolt.net/ec67a86e6c4a0d53e3bf47fdc777c99dc57fbaac79481a08ed3fec9b62c58088,1731889820,7/data/games/14/114/931864/files/6712efe0ddbb9/toad.rar",
             "gameExecutable" : "Toad\\A Night At Toads.exe",
             "gameCommandline" : "",
             "gameIniKey" : "toad",
@@ -56,7 +56,7 @@
             "gameName" : "friends are forever",
             "gameSubtitle" : "by R.A Bon",
             "gameDescription" : "You are here to take a night shift for your friend, he left the task to you this time because he had 'better stuff to do,' and you don't want to let him down, so you take it. The job is the make sure everything stays as it should at the new horror attraction, almost ready to open. Based on the old creepy Fredbear's rumors, the task won't be so easy. The animatronics are always working and they don't seem to be very safe... but everything should go as planned if you follow the instructions that your friend left for you.\n\n(80 MB)",
-            "gameDownload" : "https://download.gamejolt.net/47ed63d7c4a510bf68818c3fbe444c797af58d23dbba8ed0167ee5dc4894086c,1731800028,7/data/games/14/114/931864/files/6718968d81adc/faf.rar",
+            "gameDownload" : "https://download.gamejolt.net/9ddc3f7214dd3088751587713308a0bdfc7b77ef8ff6e6db01d4b078ceffaa65,1731889834,7/data/games/14/114/931864/files/6718968d81adc/faf.rar",
             "gameExecutable" : "FAF\\friends are forever.exe",
             "gameCommandline" : "",
             "gameIniKey" : "friends",
@@ -66,7 +66,7 @@
             "gameName" : "REVENGE AT TROY'S",
             "gameSubtitle" : "by Greg_Games & Sunken Studios",
             "gameDescription" : "Venture into Troy's facility in this third installment of the Revenge at Troy's series as you uncover the truth behind his forsaken past...\n\n\n\n(666 MB)",
-            "gameDownload" : "https://download.gamejolt.net/512637a9e7409b0c8b5336df934a2c8d5fd76e995f188b5426d672c77f6af3a2,1731800015,7/data/games/14/114/931864/files/6712d9aa749ca/revenge-at-troys-forsaken-past.rar",
+            "gameDownload" : "https://download.gamejolt.net/3799d0f691cbdb8b201a6abc387aee3e4ef72ea9165963244515669428014826,1731889848,7/data/games/14/114/931864/files/6712d9aa749ca/revenge-at-troys-forsaken-past.rar",
             "gameExecutable" : "REVENGE AT TROYS - FORSAKEN PAST.exe",
             "gameCommandline" : "",
             "gameIniKey" : "troy",
@@ -79,7 +79,7 @@
             "gameName" : "Rotting in Thy Mind",
             "gameSubtitle" : "by RadicalRendy",
             "gameDescription" : "As what's left of your material self gets re-crafted for the will of your employers, your consciousness is safely held in a state between live and dead, scheduled for a complete format after you have been fully rebuilt. Though as time passes, you become increasingly more aware, that the 'dog in you dreams' keeps on lurking in the back of thy mind.\n\n\n\n(11 MB)",
-            "gameDownload" : "https://download.gamejolt.net/73a0010c25b3afb77a74efbf5f96d31a132803e3137a1e9e0beed4431e6cd96c,1731800040,7/data/games/14/114/931864/files/67240b4aeea19/rotting-in-thy-mind.rar",
+            "gameDownload" : "https://download.gamejolt.net/c36b14b94d7b71ab59022e66d98326880df2d4a1de68c537de0414b1018a78fd,1731889863,7/data/games/14/114/931864/files/67240b4aeea19/rotting-in-thy-mind.rar",
             "gameExecutable" : "Rotting in Thy Mind\\Rotting In Thy Mind.exe",
             "gameCommandline" : "",
             "gameIniKey" : "mind",
@@ -89,21 +89,54 @@
             "gameName" : "WINTER ARC",
             "gameSubtitle" : "by NoodlePrime & Oli",
             "gameDescription" : "There's an emergency in Bopville! The Stillwater containment facility has had a breach, and the crashouts are coming for you.\n\n\n\n(86 MB)",
-            "gameDownload" : "https://download.gamejolt.net/f3d7addfeda9d65034e61d8d4f4fbd0588f793ce87dbc340c7fc57be8ad961a4,1731800062,7/data/games/14/114/931864/files/67241c21519e2/winter-arc.rar",
+            "gameDownload" : "https://download.gamejolt.net/aaba6b71dea315068f04857b7cc0541183f2a76707c43ecfd0d6eb11f64d8a8a,1731889882,7/data/games/14/114/931864/files/67241c21519e2/winter-arc.rar",
             "gameExecutable" : "WINTER ARC.exe",
             "gameCommandline" : "",
             "gameIniKey" : "arc",
-            "gameVersion" : 2
+            "gameVersion" : 1
         },
         "game2" : {
             "gameName" : "Fredfear's",
             "gameSubtitle" : "by Autumn & co.",
             "gameDescription" : "FredFear returns after nine years, since his last appearance. Now, he's brought some friends along the way.\n\n\n\n(129 MB)",
-            "gameDownload" : "https://download.gamejolt.net/33acdeaebfb23e81ba90524dce268564f0f134024f0b3d53eeeb9e5fc7a63d78,1731800072,7/data/games/14/114/931864/files/67255cb1ac5ff/fredfears.rar",
+            "gameDownload" : "https://download.gamejolt.net/996b483525ea423ad8b0b55f5584bb39f48847547a1cf10974cc33389908cc2b,1731889897,7/data/games/14/114/931864/files/67255cb1ac5ff/fredfears.rar",
             "gameExecutable" : "FREDFEARS.exe",
             "gameCommandline" : "",
             "gameIniKey" : "fear",
-            "gameVersion" : 5
+            "gameVersion" : 2
+        }
+        
+    },
+    "night4" : {
+        "game0" : {
+            "gameName" : "Data Retrieved",
+            "gameSubtitle" : "by GlitchyGlitched",
+            "gameDescription" : "You've been taken by an anonymous group of people. They attempted to retrieve information out of you, you refused. In punishment, they place you through a survival trial. You must survive if you want to be let go, or else you'll have to give up and provide the info they request.\n\n\n\n(11 MB)",
+            "gameDownload" : "https://download.gamejolt.net/6a879bc995c226545bae7b904f4144d6f1f42c94eb3495a55b5936ff676c8783,1731889911,7/data/games/14/114/931864/files/67392ebf55a00/data-retrieved.rar",
+            "gameExecutable" : "Data Retrieved\\Data Retrieved.exe",
+            "gameCommandline" : "",
+            "gameIniKey" : "data",
+            "gameVersion" : 1
+        },
+        "game1" : {
+            "gameName" : "The Faztazean Shipwreck",
+            "gameSubtitle" : "by Raytheree, JCCO2468 & co.",
+            "gameDescription" : "A mission through space gone wrong as your commander has gone rogue, your ship has crashed into the middle of nowhere, your goal is to survive the night until the search party rescues you before it's too late.\n\n\n\n(160 MB)",
+            "gameDownload" : "https://download.gamejolt.net/2000e2ac1b3eac93d363a53fd7934c5e5ed51c5834f8d7527dbcad634bddf6c2,1731889923,7/data/games/14/114/931864/files/67392f2d68573/the-faztazean-shipwreck.rar",
+            "gameExecutable" : "The Faztazean Shipwreck\\The Faztazean Shipwreck.exe",
+            "gameCommandline" : "",
+            "gameIniKey" : "faz",
+            "gameVersion" : 1
+        },
+        "game2" : {
+            "gameName" : "Omnipotent Obstruction",
+            "gameSubtitle" : "by Fazie, M. Antonio & co.",
+            "gameDescription" : "Omnipotent Obstruction is a simple retake on the Five Nights at Freddy's: Sister Location 'Private Night' boss battle - whereas this time, Ennard is an omnipotent AI-driven hellspawn who's main goal is to simply brining a weary Michael Afton down in a final game of hide and seek. Use shockers, doors, and even a stupid-looking cupcake to ward off Ennard and his pawns in a cost-effective manner that surely won't get you in trouble with the higher-ups at Fazbear Entertainment!\n\n\n\n(129 MB)",
+            "gameDownload" : "https://download.gamejolt.net/979f6e633be0e0cae61d9a396e3f2be92d221797a586726ca66ec3c4d6ce036d,1731889941,7/data/games/14/114/931864/files/67393214f0d44/omnipotent-obstruction.rar",
+            "gameExecutable" : "Omnipotent Obstruction\\Omnipotent Obstruction.exe",
+            "gameCommandline" : "",
+            "gameIniKey" : "omni",
+            "gameVersion" : 1
         }
         
     },
@@ -112,7 +145,7 @@
             "gameName" : "SUPER SOSIE JUMP",
             "gameSubtitle" : "by winsomeless",
             "gameDescription" : "Experience sosie jump in an all new way.\n\n\n\n(5.91 MB)",
-            "gameDownload" : "https://download.gamejolt.net/e823f9435adce926381d88d615e3f78df59f150f81558033958fd19d164ba127,1731799974,7/data/games/14/114/931864/files/6711d0f970a33/super-sosie-jump.zip",
+            "gameDownload" : "https://download.gamejolt.net/a7dafad748f997361e981d7e36f42672149b70ad1f61d529b0bf725936afdc96,1731890013,7/data/games/14/114/931864/files/6711d0f970a33/super-sosie-jump.zip",
             "gameExecutable" : "super sosie jump.exe",
             "gameCommandline" : "",
             "gameIniKey" : "sosie",
