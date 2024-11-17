@@ -122,11 +122,11 @@
             "gameName" : "The Faztazean Shipwreck",
             "gameSubtitle" : "by Raytheree, JCCO2468 & co.",
             "gameDescription" : "A mission through space gone wrong as your commander has gone rogue, your ship has crashed into the middle of nowhere, your goal is to survive the night until the search party rescues you before it's too late.\n\n\n\n(160 MB)",
-            "gameDownload" : "https://download.gamejolt.net/b9772d2a6d271c8d1803617a0ffe01a05c1e94c41a6fcc3631e936f317eebec4,1731892151,7/data/games/14/114/931864/files/673941f5ae0e9/the-faztazean-shipwreck.rar",
+            "gameDownload" : "https://download.gamejolt.net/a0409b28e9d5c6ac69de5f451065f125b7c1786cb224228980667ae7058d9d7f,1731895938,7/data/games/14/114/931864/files/673950b7b29b1/the-faztazean-shipwreck.rar",
             "gameExecutable" : "The Faztazean Shipwreck\\The Faztazean Shipwreck.exe",
             "gameCommandline" : "",
             "gameIniKey" : "faz",
-            "gameVersion" : 2
+            "gameVersion" : 3
         },
         "game2" : {
             "gameName" : "Omnipotent Obstruction",
